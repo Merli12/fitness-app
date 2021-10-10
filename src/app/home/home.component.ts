@@ -25,6 +25,10 @@ export class HomeComponent{
             "name": "Abonim vjetor",
             "description": "Abonohu cdo vit per fitness",
         },
+        {
+            "name": "Abonim Customized Merli",
+            "description": "Abonohu sipas Ofertes Merli",
+        },
     ]
 
 };
