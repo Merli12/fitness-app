@@ -10,8 +10,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class HomeComponent{
     constructor(private router: Router) {}
     share(){
-        debugger;
-        this.router.navigateByUrl('/abonime');
+        this.router.navigate(['/abonime']);
     }
     products=[
         {

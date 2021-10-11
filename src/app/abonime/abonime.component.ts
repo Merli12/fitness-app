@@ -7,7 +7,6 @@ import { Component } from "@angular/core";
 })
 export class AbonimeComponent{
     ngOnInit(){
-        debugger;
         alert('Hello');
     }
    
